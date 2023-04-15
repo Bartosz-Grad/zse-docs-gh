@@ -12,5 +12,5 @@ Contents
 
 .. toctree::
 
-   wow
-   wow
+   strona1
+   strona2
